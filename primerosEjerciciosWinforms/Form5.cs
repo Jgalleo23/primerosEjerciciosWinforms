@@ -96,7 +96,7 @@ namespace primerosEjerciciosWinforms
                 btJugar.Visible = true;
                 btVolverJug.Visible = true;
                 intentos = 0;
-                lbContador.Text = "1";
+                lbContador.Text = "0";
             }
 
         }
