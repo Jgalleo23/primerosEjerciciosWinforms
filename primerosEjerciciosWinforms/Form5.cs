@@ -65,7 +65,7 @@ namespace primerosEjerciciosWinforms
             btVolverJug.Enabled = false;
             txtNumPer1.Enabled = true;
             txtNumPer2.Enabled = true;
-            btElegir.Enabled=true;
+            btElegir.Enabled = true;
         }
 
         private void btComprobar_Click(object sender, EventArgs e)
@@ -93,10 +93,10 @@ namespace primerosEjerciciosWinforms
                 btComprobar.Enabled = false;
                 btVolverJug.Enabled = true;
                 txtNumero.Enabled = false;
-                btJugar.Visible=true;
-                btVolverJug.Visible=true;
+                btJugar.Visible = true;
+                btVolverJug.Visible = true;
                 intentos = 0;
-                lbContador.Text = "0";
+                lbContador.Text = "1";
             }
 
         }

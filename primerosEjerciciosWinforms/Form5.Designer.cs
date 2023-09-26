@@ -118,7 +118,7 @@
             // lbPrueba
             // 
             lbPrueba.AutoSize = true;
-            lbPrueba.Location = new Point(784, 0);
+            lbPrueba.Location = new Point(751, 9);
             lbPrueba.Name = "lbPrueba";
             lbPrueba.Size = new Size(17, 20);
             lbPrueba.TabIndex = 17;
