@@ -94,6 +94,7 @@
             txtNumero.Name = "txtNumero";
             txtNumero.Size = new Size(162, 27);
             txtNumero.TabIndex = 14;
+            txtNumero.TextChanged += txtNumero_TextChanged;
             // 
             // lbNumero
             // 
