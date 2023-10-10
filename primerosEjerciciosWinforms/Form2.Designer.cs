@@ -52,6 +52,12 @@
             pictureBox9 = new PictureBox();
             btPalabrasContando = new Button();
             pictureBox10 = new PictureBox();
+            pictureBox11 = new PictureBox();
+            btAlumnos = new Button();
+            pictureBox12 = new PictureBox();
+            btEjercicio13 = new Button();
+            btEjercicio15 = new Button();
+            pictureBox13 = new PictureBox();
             ((System.ComponentModel.ISupportInitialize)imgCalculadora).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
@@ -63,6 +69,9 @@
             ((System.ComponentModel.ISupportInitialize)pictureBox8).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox9).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox10).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox11).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox12).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox13).BeginInit();
             SuspendLayout();
             // 
             // btVolver
@@ -307,12 +316,81 @@
             pictureBox10.TabIndex = 22;
             pictureBox10.TabStop = false;
             // 
+            // pictureBox11
+            // 
+            pictureBox11.ImageLocation = resources.GetString("pictureBox11.ImageLocation");
+            pictureBox11.Location = new Point(34, 286);
+            pictureBox11.Name = "pictureBox11";
+            pictureBox11.Size = new Size(94, 89);
+            pictureBox11.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox11.TabIndex = 23;
+            pictureBox11.TabStop = false;
+            // 
+            // btAlumnos
+            // 
+            btAlumnos.Cursor = Cursors.Hand;
+            btAlumnos.Location = new Point(34, 381);
+            btAlumnos.Name = "btAlumnos";
+            btAlumnos.Size = new Size(94, 29);
+            btAlumnos.TabIndex = 24;
+            btAlumnos.Text = "Ejercicio 14";
+            btAlumnos.UseVisualStyleBackColor = true;
+            btAlumnos.Click += btAlumnos_Click;
+            // 
+            // pictureBox12
+            // 
+            pictureBox12.ImageLocation = resources.GetString("pictureBox12.ImageLocation");
+            pictureBox12.Location = new Point(649, 156);
+            pictureBox12.Name = "pictureBox12";
+            pictureBox12.Size = new Size(94, 89);
+            pictureBox12.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox12.TabIndex = 25;
+            pictureBox12.TabStop = false;
+            // 
+            // btEjercicio13
+            // 
+            btEjercicio13.Cursor = Cursors.Hand;
+            btEjercicio13.Location = new Point(649, 251);
+            btEjercicio13.Name = "btEjercicio13";
+            btEjercicio13.Size = new Size(94, 29);
+            btEjercicio13.TabIndex = 26;
+            btEjercicio13.Text = "Ejercicio 13";
+            btEjercicio13.UseVisualStyleBackColor = true;
+            btEjercicio13.Click += btEjercicio13_Click;
+            // 
+            // btEjercicio15
+            // 
+            btEjercicio15.Cursor = Cursors.Hand;
+            btEjercicio15.Location = new Point(162, 381);
+            btEjercicio15.Name = "btEjercicio15";
+            btEjercicio15.Size = new Size(94, 29);
+            btEjercicio15.TabIndex = 28;
+            btEjercicio15.Text = "Ejercicio 15";
+            btEjercicio15.UseVisualStyleBackColor = true;
+            btEjercicio15.Click += btEjercicio15_Click;
+            // 
+            // pictureBox13
+            // 
+            pictureBox13.ImageLocation = resources.GetString("pictureBox13.ImageLocation");
+            pictureBox13.Location = new Point(162, 286);
+            pictureBox13.Name = "pictureBox13";
+            pictureBox13.Size = new Size(94, 89);
+            pictureBox13.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox13.TabIndex = 27;
+            pictureBox13.TabStop = false;
+            // 
             // formPantalla2
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.Info;
             ClientSize = new Size(800, 450);
+            Controls.Add(btEjercicio15);
+            Controls.Add(pictureBox13);
+            Controls.Add(btEjercicio13);
+            Controls.Add(pictureBox12);
+            Controls.Add(btAlumnos);
+            Controls.Add(pictureBox11);
             Controls.Add(pictureBox10);
             Controls.Add(btPalabrasContando);
             Controls.Add(pictureBox9);
@@ -349,6 +427,9 @@
             ((System.ComponentModel.ISupportInitialize)pictureBox8).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox9).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox10).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox11).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox12).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox13).EndInit();
             ResumeLayout(false);
         }
 
@@ -377,5 +458,11 @@
         private PictureBox pictureBox9;
         private Button btPalabrasContando;
         private PictureBox pictureBox10;
+        private PictureBox pictureBox11;
+        private Button btAlumnos;
+        private PictureBox pictureBox12;
+        private Button btEjercicio13;
+        private Button btEjercicio15;
+        private PictureBox pictureBox13;
     }
 }

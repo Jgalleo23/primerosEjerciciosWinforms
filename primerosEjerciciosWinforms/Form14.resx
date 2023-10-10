@@ -117,28 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="pictureBox4.ImageLocation" xml:space="preserve">
-    <value>https://imgs.search.brave.com/KxZafNACgVHvxsKB_VPM3uhoOceMPqKczDRdxuomhHM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/YmJ2YS5lcy9jb250/ZW50L2RhbS9wdWJs/aWMtd2ViL2JidmFl/cy9pbWFnZXMvcGVy/c29uYXMvcHJvZHVj/dG9zLzAyX3Rhcmpl/dGFzL2NhcmRzL2Nh/cmQtYXF1YS1tYXMu/anBnLmltZy4xNjAw/LjE2ODY3NDI2MDY2/MTIuanBn</value>
-  </data>
-  <data name="pictureBox5.ImageLocation" xml:space="preserve">
-    <value>https://imgs.search.brave.com/afP_Lsmqtmjplh_LV9ot4o6pKnsoTHIsUn09dKpb8JA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NiL0Nhc2lvX2Z4/LTg1V0FfMjAwNTA1/MjkuanBn</value>
-  </data>
-  <data name="pictureBox6.ImageLocation" xml:space="preserve">
-    <value>https://imgs.search.brave.com/ouhm0s2DhFoPs1c72uGHVi4JG9TiA4p9qo9BJcXUFCk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kcmlt/anVndWV0ZXMudnRl/eGFzc2V0cy5jb20v/YXJxdWl2b3MvaWRz/LzQwNDg1My04MDAt/YXV0bz92PTYzNjY0/MDEyODUwOTUwMDAw/MCZ3aWR0aD04MDAm/aGVpZ2h0PWF1dG8m/YXNwZWN0PXRydWU</value>
-  </data>
-  <data name="pictureBox8.ImageLocation" xml:space="preserve">
-    <value>https://imgs.search.brave.com/_0z9JV4loZIHGuGp-ojwQYx5J9NJcLaV_krwi13MU2A/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA0LzQ4LzU1LzAy/LzM2MF9GXzQ0ODU1/MDIzNF9ib0JBdFlJ/eDNHbE5rQmg1YWlZ/YkcyWFQwczZEOXA0/NS5qcGc</value>
-  </data>
-  <data name="pictureBox10.ImageLocation" xml:space="preserve">
-    <value>https://imgs.search.brave.com/wmg6aPtUNSAsYzWTEz8PoDp2qMCdiaTR_o-nUHj7PFg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTI5/MDczNDc3Ny92ZWN0/b3IvNDA0LWVycm9y/LXBhZ2UtdmVjdG9y/LWRlc2lnbi5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9c0Q4/RW5ndlFRSEotblRV/eFRUWkFLY04xYkJh/MlhjbFRUZkYyajQt/V0dpUT0</value>
-  </data>
-  <data name="pictureBox11.ImageLocation" xml:space="preserve">
-    <value>https://imgs.search.brave.com/GutjnZpTUWEpYYaMv_eZNUV6iyO9DjI8dV4eoOh9ubY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90ZWNu/aWNhc3BhcmFkb2Nl/bnRlcy5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMTgvMDIv/UG9yLXF1JUMzJUE5/LWxvcy1hbHVtbm9z/LWR1ZXJtZW4tZW4t/Y2xhc2UuanBn</value>
-  </data>
-  <data name="pictureBox12.ImageLocation" xml:space="preserve">
-    <value>https://imgs.search.brave.com/wmg6aPtUNSAsYzWTEz8PoDp2qMCdiaTR_o-nUHj7PFg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTI5/MDczNDc3Ny92ZWN0/b3IvNDA0LWVycm9y/LXBhZ2UtdmVjdG9y/LWRlc2lnbi5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9c0Q4/RW5ndlFRSEotblRV/eFRUWkFLY04xYkJh/MlhjbFRUZkYyajQt/V0dpUT0</value>
-  </data>
-  <data name="pictureBox13.ImageLocation" xml:space="preserve">
-    <value>https://imgs.search.brave.com/GutjnZpTUWEpYYaMv_eZNUV6iyO9DjI8dV4eoOh9ubY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90ZWNu/aWNhc3BhcmFkb2Nl/bnRlcy5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMTgvMDIv/UG9yLXF1JUMzJUE5/LWxvcy1hbHVtbm9z/LWR1ZXJtZW4tZW4t/Y2xhc2UuanBn</value>
-  </data>
+  <metadata name="columCodigoAlumno.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="columNombre.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="columApellidos.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="columTelefono.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="columNotaMedia.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="btcolumAnadirNota.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="columCodigo.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="columAsignatura.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="columNotaAsignatura.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
 </root>

@@ -96,8 +96,25 @@ namespace primerosEjerciciosWinforms
 
         private void btPalabrasContando_Click(object sender, EventArgs e)
         {
-            formEjercicio12 ejercicio12 = new formEjercicio12();
-            ejercicio12.Show();
+            MessageBox.Show("Ejercicio no completo");
+        }
+
+        private void btAlumnos_Click(object sender, EventArgs e)
+        {
+            formAlumnos alumnos = new formAlumnos();
+            alumnos.Show();
+            this.Close();
+        }
+
+        private void btEjercicio13_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Ejercicio no completo");
+        }
+
+        private void btEjercicio15_Click(object sender, EventArgs e)
+        {
+            formEjercicio15 parking = new formEjercicio15();
+            parking.Show();
             this.Close();
         }
     }
